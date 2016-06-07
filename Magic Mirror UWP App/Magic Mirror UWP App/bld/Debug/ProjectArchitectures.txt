@@ -1,1 +1,1 @@
-c:\users\glyuk\documents\visual studio 2015\Projects\Magic Mirror UWP App\Magic Mirror UWP App\Magic Mirror UWP App.jsproj;neutral
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\Magic Mirror UWP App.jsproj;neutral

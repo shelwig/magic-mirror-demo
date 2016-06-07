@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="87d08277-b4a2-4e1f-b54c-2aa127aa3a5b" Version="1.0.0.0" Publisher="CN=glyuk" ProcessorArchitecture="neutral" />
-  <mp:PhoneIdentity PhoneProductId="87d08277-b4a2-4e1f-b54c-2aa127aa3a5b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="e2bc0d17-ae0f-4ac4-ad7e-03f0482cf174" Version="1.0.0.0" Publisher="CN=steph_000" ProcessorArchitecture="neutral" />
+  <mp:PhoneIdentity PhoneProductId="e2bc0d17-ae0f-4ac4-ad7e-03f0482cf174" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>Magic Mirror UWP App</DisplayName>
-    <PublisherDisplayName>glyuk</PublisherDisplayName>
+    <DisplayName>Delta.MagicMirror.UWP</DisplayName>
+    <PublisherDisplayName>steph_000</PublisherDisplayName>
     <Logo>images\storelogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -21,18 +21,19 @@
     <Resource Language="EN-US" />
   </Resources>
   <Applications>
-    <Application Id="App" StartPage="http://127.0.0.1:3000">
-      <uap:VisualElements DisplayName="Magic Mirror UWP App" Description="Magic Mirror UWP App" BackgroundColor="transparent" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+    <Application Id="App" StartPage="http://localhost:3000/mirror">
+      <uap:ApplicationContentUriRules>
+        <uap:Rule Match="http://localhost:3000/" Type="include" WindowsRuntimeAccess="all" />
+        <uap:Rule Match="http://localhost:3000/mirror" Type="include" WindowsRuntimeAccess="all" />
+      </uap:ApplicationContentUriRules>
+      <uap:VisualElements DisplayName="Delta.MagicMirror.UWP" Description="Delta.MagicMirror.UWP" BackgroundColor="transparent" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
         <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png"></uap:DefaultTile>
         <uap:SplashScreen Image="images\splashscreen.png" />
       </uap:VisualElements>
-      <uap:ApplicationContentUriRules>
-        <uap:Rule Match="http://127.0.0.1:3000" Type="include" WindowsRuntimeAccess="all" />
-      </uap:ApplicationContentUriRules>
     </Application>
   </Applications>
   <Capabilities>
-    <Capability Name="internetClient" />
+    <Capability Name="privateNetworkClientServer" />
     <DeviceCapability Name="webcam" />
   </Capabilities>
   <build:Metadata>
@@ -40,7 +41,7 @@
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
     <build:Item Name="OperatingSystem" Version="10.0.10586.0 (th2_release.151029-1700)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.25123.0" />
-    <build:Item Name="ProjectGUID" Value="87d08277-b4a2-4e1f-b54c-2aa127aa3a5b" />
+    <build:Item Name="ProjectGUID" Value="e2bc0d17-ae0f-4ac4-ad7e-03f0482cf174" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="AppHost" />
     <build:Item Name="MakePri.exe" Version="10.0.10586.212 (th2_release_sec.160328-1908)" />

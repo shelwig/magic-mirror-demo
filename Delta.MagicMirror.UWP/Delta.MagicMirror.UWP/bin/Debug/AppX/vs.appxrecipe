@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HELWIG-PC01</Machine>
+    <WindowsUser>steph_000</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e2bc0d17-ae0f-4ac4-ad7e-03f0482cf174</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>00E1279DFD22B8AC0F3A3583D4E56269E8A852467EB4DE07E8B052F96C9EF687</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e2bc0d17-ae0f-4ac4-ad7e-03f0482cf174_1.0.0.0_neutral__ccs4e33hfahvt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e2bc0d17-ae0f-4ac4-ad7e-03f0482cf174_ccs4e33hfahvt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e2bc0d17-ae0f-4ac4-ad7e-03f0482cf174</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=steph_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-06T15:36:56.105</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+      <Modified>2016-06-06T14:34:12.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+      <Modified>2016-03-25T01:46:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+      <Modified>2016-03-25T18:44:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-07-22T22:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T22:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T22:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T22:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T22:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T22:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-22T22:25:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\steph_000\Source\Repos\magic-mirror-demo\Delta.MagicMirror.UWP\Delta.MagicMirror.UWP\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-06T15:36:55.884</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

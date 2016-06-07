@@ -14,3 +14,19 @@ c:\users\glyuk\documents\visual studio 2015\Projects\Magic Mirror UWP App\Magic 
 c:\users\glyuk\documents\visual studio 2015\Projects\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\qualifiers.txt.intermediate
 c:\users\glyuk\documents\visual studio 2015\Projects\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 c:\users\glyuk\documents\visual studio 2015\Projects\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\ProjectArchitectures.txt
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bin\Debug\ReverseMap\resources.pri
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bin\Debug\AppxManifest.xml
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bin\Debug\Magic Mirror UWP App.build.appxrecipe
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\ResourceHandlingTask.state
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\priconfig.xml
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\priconfig.xml.intermediate
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\layout.resfiles
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\layout.resfiles.intermediate
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\resources.resfiles
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\resources.resfiles.intermediate
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\pri.resfiles
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\pri.resfiles.intermediate
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\qualifiers.txt
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\qualifiers.txt.intermediate
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\steph_000\Source\Repos\magic-mirror-demo\Magic Mirror UWP App\Magic Mirror UWP App\bld\Debug\ProjectArchitectures.txt

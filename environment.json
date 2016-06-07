@@ -1,0 +1,7 @@
+﻿{
+  "CUSTOMCONNSTR_MONGOLAB_URI": "mongodb://magicmirrordelta:AU8l13DU5FnmkB3kjZl8tFjajxDtkcdMGnxcP8C14kp08cJ6OdwGErzlTuh1S5Y51lB5qR83yKrVOlnSAfp5Sg==@magicmirrordelta.documents.azure.com:10250/?ssl=true",
+  "OXFORD_SECRET_KEY": "34088861befa4dddab31b09abf707799",
+  "OXFORD_EMOTION_SECRET_KEY": "c60111caaaa0457a9c19933a6ca473f1",
+  "BING_API_KEY": "93e270fa839d49eab0332cc683677b62",
+  "SESSION_SECRET_STRING": "ueu193fhy)sjcajfxft5$l_zfz1wkcd4h5fmz#wg#4b+q*w-p_"
+}
