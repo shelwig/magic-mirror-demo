@@ -8,6 +8,7 @@
     "bandname": "^1.0.0",
     "body-parser": "^1.15.0",
     "connect-mongodb": "^1.1.5",
+    "docpad": "^6.78.4",
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0",
     "express-session": "^1.13.0",
