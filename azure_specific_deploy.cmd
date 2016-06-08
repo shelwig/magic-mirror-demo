@@ -94,16 +94,6 @@ call !NPM_CMD! install --production
 IF !ERRORLEVEL! NEQ 0 goto error
 popd
 
-:: 3. Build DocPad site
-echo Building DocPad site...
-echo Deployment Source Folder: %DEPLOYMENT_SOURCE%
-echo Deployment Target Folder: %DEPLOYMENT_TARGET%
-pushd "%DEPLOYMENT_SOURCE%"
-rd /s /q out
-IF !ERRORLEVEL! NEQ 0 goto error
-"!NODE_EXE!" .\node_modules\docpad\bin\docpad -e static generate
-IF !ERRORLEVEL! NEQ 0 goto error
-popd
 
 :: 4. KuduSync
 echo Copying Files...
