@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A magic mirror that leverages a hosted web app as the GUI",
   "main": "server.js",
+  "engines": {"node": "4.4.5"},
   "dependencies": {
     "bandname": "^1.0.0",
     "body-parser": "^1.15.0",
