@@ -1,2 +1,2 @@
 [config]
-project = magic-mirror-demo
+command = azure_specific_deploy.cmd
